@@ -560,7 +560,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 👥 Authors & Contributors
 
-- **Rakesh HC** - *Lead Developer & Creator* - [@rakeshhc22](https://github.com/rakeshhc22)
+- **Vikas G J** - *Junior Software Engineer - Intern @ Woiswp Technologies*
 
 ### Special Thanks
 - Healthcare professionals for domain expertise and feedback
@@ -583,14 +583,9 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ## 📞 Support & Contact
 
-### Technical Support
-- **GitHub Issues**: [Create an issue](https://github.com/rakeshhc22/NeuroDetect/issues)
-- **Documentation**: Comprehensive guides in `/docs` directory
-- **Community**: Join discussions in GitHub Discussions
-
 ### Professional Inquiries
-- **Email**: rakesh.hc.dev@gmail.com
-- **LinkedIn**: [Connect on LinkedIn](https://linkedin.com/in/rakeshhc)
+- **Email**: vikasgj8@gmail.com
+- **LinkedIn**: [Connect on LinkedIn](https://linkedin.com/in/vikasgj)
 - **Medical Partnerships**: Available for healthcare collaborations
 
 ### Bug Reports & Feature Requests
